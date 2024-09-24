@@ -1,4 +1,4 @@
-package horaDePraticar;
+package desafioEtapa1.horaDePraticar;
 
 import java.util.ArrayList;
 import java.util.Scanner;
