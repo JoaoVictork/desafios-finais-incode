@@ -1,4 +1,4 @@
-package horaDePraticar2;
+package etapa1.horaDePraticar2;
 
 import java.util.Scanner;
 
